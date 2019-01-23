@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Apio
+GenericName=Apio REST Client
+Comment=Fast REST API Client
+Categories=Utility;Education;
+Exec=com.github.thureos.apio
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=apio;api;rest;client;
