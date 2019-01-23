@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2018 Your Name <you@email.com> -->
+<component type="desktop">
+  <id>com.github.thureos.apio</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Apio</name>
+  <summary>Fast and Simple REST API Client</summary>
+  <description>
+    <p>Non electron based REST API client, Enough said.</p>
+  </description>
+</component>
